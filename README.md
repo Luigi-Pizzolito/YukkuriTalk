@@ -1,6 +1,10 @@
 # YukkuriTalk
 A command-line program which uses AquesTalk10's Yukkuri TTS. Offline, single-binary.
 
+Supports English and Japanese input, performs English to Japanese transliteration using [kanatrans](https://github.com/Luigi-Pizzolito/English2KanaTransliteration).
+
+---
+
 Usage: `go run .`
 
 Example Output:
