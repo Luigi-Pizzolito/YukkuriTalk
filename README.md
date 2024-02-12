@@ -5,7 +5,7 @@ Supports English and Japanese input, performs English to Japanese transliteratio
 
 ---
 
-Usage: `go run .`
+Usage: `go run .` or `./YukkuriTalk`, then type and press enter to speak.
 
 Example Output:
 ```
